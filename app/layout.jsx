@@ -28,7 +28,10 @@ export default function Layout({ children }) {
           </nav>
         </header>
         <main>{children}</main>
-        <footer>[footer]</footer>
+        <footer>
+          <hr />
+          <span>I'm here to stay (Footer)</span>
+        </footer>
       </body>
     </html>
   );
