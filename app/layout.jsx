@@ -7,10 +7,10 @@ export default function Layout({ children }) {
       <head>
         <title>Learn Next.js Fundamental</title>
       </head>
-      <body>
+      <body className="flex flex-col px-4 py-4 min-h-screen">
         <header>
           <nav>
-            <ul>
+            <ul className="flex gap-2">
               <li>
                 <Link href="/">Home</Link>
               </li>
@@ -28,9 +28,8 @@ export default function Layout({ children }) {
             </ul>
           </nav>
         </header>
-        <main>{children}</main>
-        <footer>
-          <hr />
+        <main className="py-3 grow">{children}</main>
+        <footer className="border-t py-3 text-center text-xs">
           <span>I'm here to stay (Footer)</span>
         </footer>
       </body>
