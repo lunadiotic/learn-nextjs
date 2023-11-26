@@ -1,6 +1,10 @@
 import Heading from "@/components/Heading";
 
-export default function PostPage() {
+import { readFile } from "node:fs/promises";
+
+export default async function PostPage() {
+  const text = await readFile("./content/blog/belajar-nextjs.md", "utf8");
+
   return (
     <>
       <Heading>Belajar Next.js</Heading>
@@ -11,7 +15,7 @@ export default function PostPage() {
         height={360}
         className="mb-2 rounded"
       />
-      <p>Halaman dari blog</p>
+      <p>{text}</p>
     </>
   );
 }
