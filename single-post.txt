@@ -1,0 +1,74 @@
+
+      <div className="relative">
+        <div className="max-w-3xl mb-10 rounded overflow-hidden flex flex-col mx-auto text-center">
+          <a
+            href="#"
+            className="max-w-3xl mx-auto text-xl sm:text-4xl font-semibold text-gray-800 inline-block mb-2"
+          >
+            The Best Activewear from the Nordstrom Anniversary Sale
+          </a>
+          <div className="py-5 text-sm font-regular text-gray-900 flex items-center justify-center">
+            <p class="mb-3 text-gray-800">
+              <small>
+                Published <u>20/11/2023</u> by {""}
+                <a href="#!">admin</a>
+              </small>
+            </p>
+          </div>
+          <a href="#">
+            <img className="w-full my-4" src="/images/image-1.jpg" />
+          </a>
+          <hr />
+        </div>
+
+        <div className="max-w-3xl mx-auto">
+          <div className="mt-3  lg:rounded-r flex flex-col justify-between leading-normal">
+            <div className="">
+              <p className="text-base leading-8 my-5">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text ever since the 1500s, when an unknown printer took a galley
+                of type and scrambled it to make a type specimen book. It has
+                survived not only five centuries, but also the leap into
+                electronic typesetting, remaining essentially unchanged. It was
+                popularised in the 1960s with the release of Letraset sheets
+                containing Lorem Ipsum passages, and more recently with desktop
+                publishing software like Aldus PageMaker including versions of
+                Lorem Ipsum.
+              </p>
+              <h3 className="text-2xl font-bold my-5">
+                #1. What is Lorem Ipsum?
+              </h3>
+              <p className="text-base leading-8 my-5">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text ever since the 1500s, when an unknown printer took a galley
+                of type and scrambled it to make a type specimen book. It has
+                survived not only five centuries, but also the leap into
+                electronic typesetting, remaining essentially unchanged. It was
+                popularised in the 1960s with the release of Letraset sheets
+                containing Lorem Ipsum passages, and more recently with desktop
+                publishing software like Aldus PageMaker including versions of
+                Lorem Ipsum.
+              </p>
+              <blockquote className="text-md italic leading-8 my-5 p-5 text-gray-600 font-semibold">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text ever since the 1500s
+              </blockquote>
+              <p className="text-base leading-8 my-5">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text ever since the 1500s, when an unknown printer took a galley
+                of type and scrambled it to make a type specimen book. It has
+                survived not only five centuries, but also the leap into
+                electronic typesetting, remaining essentially unchanged. It was
+                popularised in the 1960s with the release of Letraset sheets
+                containing Lorem Ipsum passages, and more recently with desktop
+                publishing software like Aldus PageMaker including versions of
+                Lorem Ipsum.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
