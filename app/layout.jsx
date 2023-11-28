@@ -3,7 +3,10 @@ import { roboto } from "./fonts";
 import "./globals.css";
 
 export const metadata = {
-  title: "Situs Next.js",
+  title: {
+    default: "Situs Next.js",
+    template: "%s | Situs Next.js",
+  },
   description: "Kumpulan tutorial belajar Next.js dari Dasar",
 };
 

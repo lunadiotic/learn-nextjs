@@ -2,6 +2,10 @@ import Heading from "@/components/Heading";
 import PostCard from "@/components/PostCard";
 import { getAllPosts } from "@/lib/post";
 
+export const metadata = {
+  title: "Blog",
+};
+
 export default async function BlogPage() {
   const posts = await getAllPosts();
   return (
