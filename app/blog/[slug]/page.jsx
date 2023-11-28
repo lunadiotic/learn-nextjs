@@ -1,6 +1,14 @@
 import Heading from "@/components/Heading";
 import { getPost } from "@/lib/post";
 
+export async function generateMetadata({ params: { slug } }) {
+  const post = await getPost(slug);
+  return {
+    title: post.title,
+    description: post.description,
+  };
+}
+
 export default async function PostPage({ params: { slug } }) {
   const post = await getPost(slug);
   return (
