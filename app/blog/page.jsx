@@ -12,9 +12,9 @@ export default async function BlogPage() {
       {posts.map((post) => (
         <PostCard
           title={post.title}
-          href=""
+          href={`/blog/${post.slug}`}
           image={post.image}
-          description=""
+          description={post.description}
           date={post.date}
           author={post.author}
         />
