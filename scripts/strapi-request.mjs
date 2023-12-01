@@ -2,14 +2,19 @@ import { writeFileSync } from "node:fs";
 import qs from "qs";
 
 const url =
-  "http://localhost:1337/api/posts" +
+  "http://localhost:1337/api/posts/" +
   "?" +
   qs.stringify(
     {
+      filters: {
+        slug: {
+          $eq: "menghadapi-kegagalan-dengan-bijak-pelajaran-dari-stoikisme",
+        },
+      },
       fields: ["slug", "title", "description", "publishedAt", "author", "body"],
       populate: { image: { fields: ["url"] } },
       sort: ["publishedAt:desc"],
-      pagination: { pageSize: 3 },
+      pagination: { pageSize: 1, withCount: false },
     },
     { encodeValuesOnly: true }
   );

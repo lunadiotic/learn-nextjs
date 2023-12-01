@@ -1,25 +1,6 @@
 {
   "data": [
     {
-      "id": 6,
-      "attributes": {
-        "slug": "keseimbangan-emosional-menyelami-keterampilan-stoikisme",
-        "title": "Keseimbangan Emosional: Menyelami Keterampilan Stoikisme",
-        "description": "Mengembangkan keseimbangan emosional melalui prinsip-prinsip stoikisme.",
-        "publishedAt": "2023-11-30T10:05:42.360Z",
-        "author": "aim",
-        "body": "Stoikisme tidak hanya mengajarkan kontrol diri, tetapi juga keseimbangan emosional. **Paragraf 1**: Stoikisme membimbing kita untuk merespons situasi dengan tenang dan penuh keterampilan. **Paragraf 2**: Dengan mengasah keterampilan ini, kita dapat menghadapi tantangan tanpa terbawa emosi. **Paragraf 3**: Dalam artikel ini, mari kita telusuri bagaimana stoikisme membantu kita mengembangkan keseimbangan emosional yang mendalam.",
-        "image": {
-          "data": {
-            "id": 3,
-            "attributes": {
-              "url": "/uploads/image_2_a53b6c4cf7.jpg"
-            }
-          }
-        }
-      }
-    },
-    {
       "id": 5,
       "attributes": {
         "slug": "menghadapi-kegagalan-dengan-bijak-pelajaran-dari-stoikisme",
@@ -37,33 +18,12 @@
           }
         }
       }
-    },
-    {
-      "id": 4,
-      "attributes": {
-        "slug": "stoikisme-dan-tanggung-jawab-pribadi",
-        "title": "Stoikisme dan Tanggung Jawab Pribadi",
-        "description": "Menyelami konsep tanggung jawab pribadi melalui lensa stoikisme.",
-        "publishedAt": "2023-11-30T10:04:32.103Z",
-        "author": "aim",
-        "body": "Konsep tanggung jawab pribadi merupakan pilar utama dalam filsafat stoikisme. **Paragraf 1**: Stoikisme mengajarkan bahwa kita memiliki kendali penuh terhadap tindakan dan reaksi kita terhadap dunia luar. **Paragraf 2**: Dengan mengakui tanggung jawab penuh atas hidup kita, kita dapat membentuk takdir kita sendiri. **Paragraf 3**: Dalam artikel ini, kita akan mendalami bagaimana stoikisme mengajarkan kita untuk memegang kendali penuh terhadap hidup kita melalui tanggung jawab pribadi.",
-        "image": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "url": "/uploads/image_4_3fff9270df.jpg"
-            }
-          }
-        }
-      }
     }
   ],
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 3,
-      "pageCount": 2,
-      "total": 5
+      "pageSize": 1
     }
   }
 }
