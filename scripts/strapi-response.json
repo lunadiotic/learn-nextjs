@@ -1,243 +1,19 @@
 {
   "data": [
     {
-      "id": 2,
+      "id": 6,
       "attributes": {
-        "title": "Filosofi Stoik: Menemukan Ketenangan dalam Kekacauan",
-        "description": "Menyelami kebijaksanaan kuno untuk menemukan ketenangan dalam kehidupan modern.",
-        "body": "Stoikisme, sebuah aliran filsafat kuno yang berasal dari Yunani kuno, telah menjadi pemandu bagi banyak individu dalam mencapai ketenangan dalam kehidupan sehari-hari. **Paragraf 1**: Stoikisme menekankan pada kontrol diri dan ketekunan dalam menghadapi rintangan. **Paragraf 2**: Dengan fokus pada hal-hal yang dapat kita kendalikan dan penerimaan terhadap yang tidak dapat kita kendalikan, stoikisme membawa pandangan hidup yang mendalam. **Paragraf 3**: Dalam artikel ini, kita akan mengeksplorasi prinsip-prinsip stoikisme dan bagaimana dapat diterapkan dalam kehidupan modern.",
-        "slug": "filosofi-stoik-menemukan-ketenangan-dalam-kekacauan",
-        "createdAt": "2023-11-30T10:03:12.769Z",
-        "updatedAt": "2023-11-30T10:03:16.793Z",
-        "publishedAt": "2023-11-30T10:03:16.791Z",
-        "author": "Admin",
-        "image": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "image-5.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 2075,
-              "height": 1376,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_image-5.jpg",
-                  "hash": "thumbnail_image_5_199b4d1e01",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 235,
-                  "height": 156,
-                  "size": 11.63,
-                  "url": "/uploads/thumbnail_image_5_199b4d1e01.jpg"
-                },
-                "small": {
-                  "name": "small_image-5.jpg",
-                  "hash": "small_image_5_199b4d1e01",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 332,
-                  "size": 38.42,
-                  "url": "/uploads/small_image_5_199b4d1e01.jpg"
-                },
-                "large": {
-                  "name": "large_image-5.jpg",
-                  "hash": "large_image_5_199b4d1e01",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 663,
-                  "size": 119.29,
-                  "url": "/uploads/large_image_5_199b4d1e01.jpg"
-                },
-                "medium": {
-                  "name": "medium_image-5.jpg",
-                  "hash": "medium_image_5_199b4d1e01",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 497,
-                  "size": 73.58,
-                  "url": "/uploads/medium_image_5_199b4d1e01.jpg"
-                }
-              },
-              "hash": "image_5_199b4d1e01",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 570.36,
-              "url": "/uploads/image_5_199b4d1e01.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2023-11-30T09:43:02.148Z",
-              "updatedAt": "2023-11-30T10:02:19.774Z"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 3,
-      "attributes": {
-        "title": "Stoikisme dan Seni Hidup Bahagia",
-        "description": "Menggali rahasia seni hidup bahagia melalui lensa stoikisme.",
-        "body": "Seni hidup bahagia telah menjadi dambaan banyak orang, dan stoikisme menawarkan wawasan unik tentang bagaimana mencapainya. **Paragraf 1**: Stoikisme mengajarkan kita untuk tidak terlalu terpengaruh oleh hal-hal di luar kendali kita, memberi dasar yang kokoh untuk kebahagiaan. **Paragraf 2**: Dengan berfokus pada nilai-nilai internal, stoikisme menuntun kita untuk menemukan kebahagiaan dalam kesederhanaan. **Paragraf 3**: Dalam artikel ini, kita akan menjelajahi hubungan antara stoikisme dan seni hidup bahagia.",
-        "slug": "stoikisme-dan-seni-hidup-bahagia",
-        "createdAt": "2023-11-30T10:04:01.127Z",
-        "updatedAt": "2023-11-30T10:04:01.879Z",
-        "publishedAt": "2023-11-30T10:04:01.877Z",
+        "slug": "keseimbangan-emosional-menyelami-keterampilan-stoikisme",
+        "title": "Keseimbangan Emosional: Menyelami Keterampilan Stoikisme",
+        "description": "Mengembangkan keseimbangan emosional melalui prinsip-prinsip stoikisme.",
+        "publishedAt": "2023-11-30T10:05:42.360Z",
         "author": "aim",
+        "body": "Stoikisme tidak hanya mengajarkan kontrol diri, tetapi juga keseimbangan emosional. **Paragraf 1**: Stoikisme membimbing kita untuk merespons situasi dengan tenang dan penuh keterampilan. **Paragraf 2**: Dengan mengasah keterampilan ini, kita dapat menghadapi tantangan tanpa terbawa emosi. **Paragraf 3**: Dalam artikel ini, mari kita telusuri bagaimana stoikisme membantu kita mengembangkan keseimbangan emosional yang mendalam.",
         "image": {
           "data": {
-            "id": 2,
+            "id": 3,
             "attributes": {
-              "name": "image-1.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 1920,
-              "height": 1280,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_image-1.jpg",
-                  "hash": "thumbnail_image_1_70d6c6a527",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 234,
-                  "height": 156,
-                  "size": 9.97,
-                  "url": "/uploads/thumbnail_image_1_70d6c6a527.jpg"
-                },
-                "small": {
-                  "name": "small_image-1.jpg",
-                  "hash": "small_image_1_70d6c6a527",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 333,
-                  "size": 40.13,
-                  "url": "/uploads/small_image_1_70d6c6a527.jpg"
-                },
-                "medium": {
-                  "name": "medium_image-1.jpg",
-                  "hash": "medium_image_1_70d6c6a527",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 500,
-                  "size": 84.69,
-                  "url": "/uploads/medium_image_1_70d6c6a527.jpg"
-                },
-                "large": {
-                  "name": "large_image-1.jpg",
-                  "hash": "large_image_1_70d6c6a527",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 667,
-                  "size": 143.42,
-                  "url": "/uploads/large_image_1_70d6c6a527.jpg"
-                }
-              },
-              "hash": "image_1_70d6c6a527",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 441.64,
-              "url": "/uploads/image_1_70d6c6a527.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2023-11-30T10:03:50.403Z",
-              "updatedAt": "2023-11-30T10:03:50.403Z"
-            }
-          }
-        }
-      }
-    },
-    {
-      "id": 4,
-      "attributes": {
-        "title": "Stoikisme dan Tanggung Jawab Pribadi",
-        "description": "Menyelami konsep tanggung jawab pribadi melalui lensa stoikisme.",
-        "body": "Konsep tanggung jawab pribadi merupakan pilar utama dalam filsafat stoikisme. **Paragraf 1**: Stoikisme mengajarkan bahwa kita memiliki kendali penuh terhadap tindakan dan reaksi kita terhadap dunia luar. **Paragraf 2**: Dengan mengakui tanggung jawab penuh atas hidup kita, kita dapat membentuk takdir kita sendiri. **Paragraf 3**: Dalam artikel ini, kita akan mendalami bagaimana stoikisme mengajarkan kita untuk memegang kendali penuh terhadap hidup kita melalui tanggung jawab pribadi.",
-        "slug": "stoikisme-dan-tanggung-jawab-pribadi",
-        "createdAt": "2023-11-30T10:04:31.342Z",
-        "updatedAt": "2023-11-30T10:04:32.105Z",
-        "publishedAt": "2023-11-30T10:04:32.103Z",
-        "author": "aim",
-        "image": {
-          "data": {
-            "id": 5,
-            "attributes": {
-              "name": "image-4.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 2069,
-              "height": 1381,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_image-4.jpg",
-                  "hash": "thumbnail_image_4_3fff9270df",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 234,
-                  "height": 156,
-                  "size": 11.97,
-                  "url": "/uploads/thumbnail_image_4_3fff9270df.jpg"
-                },
-                "small": {
-                  "name": "small_image-4.jpg",
-                  "hash": "small_image_4_3fff9270df",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 334,
-                  "size": 50.79,
-                  "url": "/uploads/small_image_4_3fff9270df.jpg"
-                },
-                "medium": {
-                  "name": "medium_image-4.jpg",
-                  "hash": "medium_image_4_3fff9270df",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 501,
-                  "size": 115.14,
-                  "url": "/uploads/medium_image_4_3fff9270df.jpg"
-                },
-                "large": {
-                  "name": "large_image-4.jpg",
-                  "hash": "large_image_4_3fff9270df",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 667,
-                  "size": 204.11,
-                  "url": "/uploads/large_image_4_3fff9270df.jpg"
-                }
-              },
-              "hash": "image_4_3fff9270df",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 776.59,
-              "url": "/uploads/image_4_3fff9270df.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2023-11-30T10:03:50.709Z",
-              "updatedAt": "2023-11-30T10:03:50.709Z"
+              "url": "/uploads/image_2_a53b6c4cf7.jpg"
             }
           }
         }
@@ -246,160 +22,36 @@
     {
       "id": 5,
       "attributes": {
+        "slug": "menghadapi-kegagalan-dengan-bijak-pelajaran-dari-stoikisme",
         "title": "Menghadapi Kegagalan dengan Bijak: Pelajaran dari Stoikisme",
         "description": "Belajar melihat kegagalan sebagai batu loncatan menuju kesuksesan melalui pandangan stoikisme.",
-        "body": "Stoikisme memberikan perspektif unik tentang kegagalan. **Paragraf 1**: Stoikisme mengajarkan kita untuk melihat kegagalan sebagai bagian alami dari kehidupan dan peluang untuk belajar. **Paragraf 2**: Dengan memisahkan diri dari emosi negatif yang disebabkan oleh kegagalan, kita dapat berkembang dan tumbuh. **Paragraf 3**: Dalam artikel ini, kita akan mengeksplorasi bagaimana stoikisme dapat membimbing kita dalam menghadapi kegagalan dengan bijaksana.",
-        "slug": "menghadapi-kegagalan-dengan-bijak-pelajaran-dari-stoikisme",
-        "createdAt": "2023-11-30T10:05:05.294Z",
-        "updatedAt": "2023-11-30T10:05:05.938Z",
         "publishedAt": "2023-11-30T10:05:05.936Z",
         "author": "aim",
+        "body": "Stoikisme memberikan perspektif unik tentang kegagalan. **Paragraf 1**: Stoikisme mengajarkan kita untuk melihat kegagalan sebagai bagian alami dari kehidupan dan peluang untuk belajar. **Paragraf 2**: Dengan memisahkan diri dari emosi negatif yang disebabkan oleh kegagalan, kita dapat berkembang dan tumbuh. **Paragraf 3**: Dalam artikel ini, kita akan mengeksplorasi bagaimana stoikisme dapat membimbing kita dalam menghadapi kegagalan dengan bijaksana.",
         "image": {
           "data": {
             "id": 4,
             "attributes": {
-              "name": "image-3.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 2070,
-              "height": 1380,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_image-3.jpg",
-                  "hash": "thumbnail_image_3_c1368d2ae6",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 234,
-                  "height": 156,
-                  "size": 6.4,
-                  "url": "/uploads/thumbnail_image_3_c1368d2ae6.jpg"
-                },
-                "medium": {
-                  "name": "medium_image-3.jpg",
-                  "hash": "medium_image_3_c1368d2ae6",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 500,
-                  "size": 40.97,
-                  "url": "/uploads/medium_image_3_c1368d2ae6.jpg"
-                },
-                "small": {
-                  "name": "small_image-3.jpg",
-                  "hash": "small_image_3_c1368d2ae6",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 333,
-                  "size": 21.29,
-                  "url": "/uploads/small_image_3_c1368d2ae6.jpg"
-                },
-                "large": {
-                  "name": "large_image-3.jpg",
-                  "hash": "large_image_3_c1368d2ae6",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 667,
-                  "size": 66.9,
-                  "url": "/uploads/large_image_3_c1368d2ae6.jpg"
-                }
-              },
-              "hash": "image_3_c1368d2ae6",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 250.87,
-              "url": "/uploads/image_3_c1368d2ae6.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2023-11-30T10:03:50.617Z",
-              "updatedAt": "2023-11-30T10:03:50.617Z"
+              "url": "/uploads/image_3_c1368d2ae6.jpg"
             }
           }
         }
       }
     },
     {
-      "id": 6,
+      "id": 4,
       "attributes": {
-        "title": "Keseimbangan Emosional: Menyelami Keterampilan Stoikisme",
-        "description": "Mengembangkan keseimbangan emosional melalui prinsip-prinsip stoikisme.",
-        "body": "Stoikisme tidak hanya mengajarkan kontrol diri, tetapi juga keseimbangan emosional. **Paragraf 1**: Stoikisme membimbing kita untuk merespons situasi dengan tenang dan penuh keterampilan. **Paragraf 2**: Dengan mengasah keterampilan ini, kita dapat menghadapi tantangan tanpa terbawa emosi. **Paragraf 3**: Dalam artikel ini, mari kita telusuri bagaimana stoikisme membantu kita mengembangkan keseimbangan emosional yang mendalam.",
-        "slug": "keseimbangan-emosional-menyelami-keterampilan-stoikisme",
-        "createdAt": "2023-11-30T10:05:37.277Z",
-        "updatedAt": "2023-11-30T10:05:42.362Z",
-        "publishedAt": "2023-11-30T10:05:42.360Z",
+        "slug": "stoikisme-dan-tanggung-jawab-pribadi",
+        "title": "Stoikisme dan Tanggung Jawab Pribadi",
+        "description": "Menyelami konsep tanggung jawab pribadi melalui lensa stoikisme.",
+        "publishedAt": "2023-11-30T10:04:32.103Z",
         "author": "aim",
+        "body": "Konsep tanggung jawab pribadi merupakan pilar utama dalam filsafat stoikisme. **Paragraf 1**: Stoikisme mengajarkan bahwa kita memiliki kendali penuh terhadap tindakan dan reaksi kita terhadap dunia luar. **Paragraf 2**: Dengan mengakui tanggung jawab penuh atas hidup kita, kita dapat membentuk takdir kita sendiri. **Paragraf 3**: Dalam artikel ini, kita akan mendalami bagaimana stoikisme mengajarkan kita untuk memegang kendali penuh terhadap hidup kita melalui tanggung jawab pribadi.",
         "image": {
           "data": {
-            "id": 3,
+            "id": 5,
             "attributes": {
-              "name": "image-2.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 2070,
-              "height": 1382,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_image-2.jpg",
-                  "hash": "thumbnail_image_2_a53b6c4cf7",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 234,
-                  "height": 156,
-                  "size": 12.89,
-                  "url": "/uploads/thumbnail_image_2_a53b6c4cf7.jpg"
-                },
-                "small": {
-                  "name": "small_image-2.jpg",
-                  "hash": "small_image_2_a53b6c4cf7",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 334,
-                  "size": 47.36,
-                  "url": "/uploads/small_image_2_a53b6c4cf7.jpg"
-                },
-                "large": {
-                  "name": "large_image-2.jpg",
-                  "hash": "large_image_2_a53b6c4cf7",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 668,
-                  "size": 155.05,
-                  "url": "/uploads/large_image_2_a53b6c4cf7.jpg"
-                },
-                "medium": {
-                  "name": "medium_image-2.jpg",
-                  "hash": "medium_image_2_a53b6c4cf7",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 501,
-                  "size": 94.2,
-                  "url": "/uploads/medium_image_2_a53b6c4cf7.jpg"
-                }
-              },
-              "hash": "image_2_a53b6c4cf7",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 526.64,
-              "url": "/uploads/image_2_a53b6c4cf7.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2023-11-30T10:03:50.443Z",
-              "updatedAt": "2023-11-30T10:03:50.443Z"
+              "url": "/uploads/image_4_3fff9270df.jpg"
             }
           }
         }
@@ -409,8 +61,8 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 25,
-      "pageCount": 1,
+      "pageSize": 3,
+      "pageCount": 2,
       "total": 5
     }
   }
