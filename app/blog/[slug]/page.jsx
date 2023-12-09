@@ -23,6 +23,7 @@ export async function generateMetadata({ params: { slug } }) {
 }
 
 export default async function PostPage({ params: { slug } }) {
+  console.log("slug", slug);
   const post = await getPost(slug);
   if (!post) {
     notFound();
