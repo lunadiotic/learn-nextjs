@@ -6,15 +6,10 @@ const url =
   "?" +
   qs.stringify(
     {
-      filters: {
-        slug: {
-          $eq: "menghadapi-kegagalan-dengan-bijak-pelajaran-dari-stoikisme",
-        },
-      },
       fields: ["slug", "title", "description", "publishedAt", "author", "body"],
       populate: { image: { fields: ["url"] } },
-      sort: ["publishedAt:desc"],
-      pagination: { pageSize: 1, withCount: false },
+      sort: ["updatedAt:desc"],
+      pagination: { pageSize: 3, page: 1 },
     },
     { encodeValuesOnly: true }
   );

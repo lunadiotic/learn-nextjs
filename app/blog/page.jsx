@@ -11,14 +11,16 @@ export const metadata = {
 
 export default async function BlogPage({ searchParams }) {
   const page = parsePageParam(searchParams.page);
-  const posts = await getAllPosts(3, page);
+  const { pageCount, posts } = await getAllPosts(3, page);
   return (
     <>
       <Heading>Blog</Heading>
       <h2 className="text-2xl mb-3">List of posts</h2>
       <div className="flex gap-3 pb-3">
         <Link href={`/blog?page=${page - 1}`}>&lt;</Link>
-        <span>Page {page}</span>
+        <span>
+          Page {page} of {pageCount}
+        </span>
         <Link href={`/blog?page=${page + 1}`}>&gt;</Link>
       </div>
       {posts.map((post, index) => (
